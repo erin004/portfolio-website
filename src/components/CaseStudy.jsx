@@ -8,7 +8,7 @@ const projects = [
     tag: "WEB",
     title: "To Do List",
     desc: "A to-do list website with features like task filtering by day, priority levels, task editing, and overdue detection if tasks are not completed on time.",
-    img: "src/assets/to-do-list.png",
+    img: "/to-do-list.png",
     link: "https://github.com/erin004",
   },
   {
@@ -16,7 +16,7 @@ const projects = [
     tag: "WEB",
     title: "Video Learning React App",
     desc: "A React.js website with CRUD API integration to manage and display available courses.",
-    img: "src/assets/video-belajar.png",
+    img: "/video-belajar.png",
     link: "https://github.com/erin004",
   },
   {
@@ -24,7 +24,7 @@ const projects = [
     tag: "WEB",
     title: "Furniture Landing Page",
     desc: "A React.js landing page website featuring a carousel for better visuals and a dropdown menu for easier navigation.",
-    img: "src/assets/furniture.png",
+    img: "/furniture.png",
     link: "https://github.com/erin004",
   },
   {
@@ -32,7 +32,7 @@ const projects = [
     tag: "WEB",
     title: "Job Finder App",
     desc: "A job portal website built with React and Axios for CRUD job data. Includes authentication for secure login and data management.",
-    img: "src/assets/job-portal.png",
+    img: "/job-portal.png",
     link: "https://github.com/erin004",
   },
   {
@@ -40,7 +40,7 @@ const projects = [
     tag: "WEB",
     title: "Learning Management System",
     desc: "A web-based LMS built with React.js, featuring course management, user authentication, and CRUD functionality for handling learning materials.",
-    img: "src/assets/lms.png",
+    img: "/lms.png",
     link: "https://github.com/erin004",
   },
   {
@@ -48,7 +48,7 @@ const projects = [
     tag: "UI/UX",
     title: "Cozy App",
     desc: "UI/UX design for an accommodation app to find boarding houses or hotels, with features like ratings, integrated maps, and direct call to the owner.",
-    img: "src/assets/cozy-app.png",
+    img: "/cozy-app.png",
     link: "https://github.com/erin004",
   },
   {
@@ -56,7 +56,7 @@ const projects = [
     tag: "UI/UX",
     title: "Kids Learning App",
     desc: "UI/UX design for an early childhood education app with features like level selection, interactive games, learning videos, and progress tracking.",
-    img: "src/assets/kids-learning-app.png",
+    img: "/kids-learning-app.png",
     link: "https://github.com/erin004",
   },
   {
@@ -64,7 +64,7 @@ const projects = [
     tag: "UI/UX",
     title: "LansiHealth",
     desc: "UI/UX design for an app targeting the elderly, featuring medication reminders and doctor consultation schedules.",
-    img: "src/assets/lansiHealth.png",
+    img: "/lansiHealth.png",
     link: "https://github.com/erin004",
   },
   {
@@ -72,15 +72,7 @@ const projects = [
     tag: "UI/UX",
     title: "Flight Booking App",
     desc: "UI/UX design for a flight booking app with features like flight search, ticket booking, seat selection, and payment integration.",
-    img: "src/assets/ngeFly.png",
-    link: "https://github.com/erin004",
-  },
-  {
-    id: 10,
-    tag: "WEB",
-    title: "Video Learning Web",
-    desc: "A React.js learning platform with CRUD functionality for course data using Axios API integration.",
-    img: "src/assets/video-belajar.png",
+    img: "/ngeFly.png",
     link: "https://github.com/erin004",
   },
 ];
