@@ -103,7 +103,7 @@ export default function Hero() {
         >
           🔮 Summon Me
         </a>
-          <a href="/CV Erin (1).pdf"
+          <a href="/CV ATS Erin.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 rounded-[10px] border border-gray-500 text-white hover:bg-white/10 backdrop-blur-md transition"
