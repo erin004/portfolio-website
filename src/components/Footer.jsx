@@ -28,7 +28,7 @@ const Footer = forwardRef((props, ref) => {
         </a>
 
         <a
-          href="https://linkedin.com/in/usernamekamu"
+          href="https://linkedin.com/in/erinbellvani"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-blue-400 transition"
