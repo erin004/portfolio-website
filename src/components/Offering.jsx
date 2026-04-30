@@ -7,7 +7,7 @@ const offerings = [
   {
     icon: <Code size={50} />,
     title: "Web Development",
-    desc: "Focused on JavaScript frameworks such as React, with experience in developing dynamic, responsive, and user-centric web applications.",
+    desc: "Experienced in developing interactive frontend interfaces using React.js, Vite, Tailwind CSS, Redux, Fetch API, and Axios, along with building RESTful backend services using Node.js, Express.js, and MySQL. Familiar with API integration, data management, dashboard development, and creating maintainable full stack applications from backend to deployment.",
     color: "from-blue-500 to-cyan-500",
   },
   {
