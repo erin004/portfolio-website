@@ -17,7 +17,7 @@ const projects = [
     title: "Video Learning React App",
     desc: "A React.js website with CRUD API integration to manage and display available courses.",
     img: "/video-belajar.png",
-    link: "https://github.com/erin004",
+    link: "https://github.com/erin004/React-VideoBelajarApp",
   },
   {
     id: 3,
@@ -45,6 +45,22 @@ const projects = [
   },
   {
     id: 6,
+    tag: "WEB",
+    title: "Product Dashboard",
+    desc: "A full stack product analytics dashboard built to help brands monitor and understand product performance from external e-commerce data sources. The system fetches product data from a public API, stores it in a MySQL database, processes and transforms the data, then visualizes it through interactive charts, statistics, and tables.",
+    img: "/product-dashboard.png",
+    link: "https://github.com/erin004/Product-Dashboard",
+  },
+  {
+    id: 7,
+    tag: "WEB",
+    title: "Regional Filter React",
+    desc: "A responsive React dashboard for filtering Indonesian regions by province, city, and district using dynamic API-based dropdowns. The application automatically updates region data based on user selection and includes breadcrumb navigation to display the active selected area.",
+    img: "/regional-filter.png",
+    link: "https://github.com/erin004/filter-wilayah-web",
+  },
+  {
+    id: 8,
     tag: "UI/UX",
     title: "Cozy App",
     desc: "UI/UX design for an accommodation app to find boarding houses or hotels, with features like ratings, integrated maps, and direct call to the owner.",
@@ -52,7 +68,7 @@ const projects = [
     link: "https://github.com/erin004",
   },
   {
-    id: 7,
+    id: 9,
     tag: "UI/UX",
     title: "Kids Learning App",
     desc: "UI/UX design for an early childhood education app with features like level selection, interactive games, learning videos, and progress tracking.",
@@ -60,7 +76,7 @@ const projects = [
     link: "https://github.com/erin004",
   },
   {
-    id: 8,
+    id: 10,
     tag: "UI/UX",
     title: "LansiHealth",
     desc: "UI/UX design for an app targeting the elderly, featuring medication reminders and doctor consultation schedules.",
@@ -68,7 +84,7 @@ const projects = [
     link: "https://github.com/erin004",
   },
   {
-    id: 9,
+    id: 11,
     tag: "UI/UX",
     title: "Flight Booking App",
     desc: "UI/UX design for a flight booking app with features like flight search, ticket booking, seat selection, and payment integration.",
