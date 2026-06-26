@@ -90,7 +90,7 @@ export default function Hero() {
           <span className="text-pink-400">crazy ideas</span> into{" "}
           <span className="text-purple-400">slick websites</span> &{" "}
           <span className="text-blue-400">fun digital stuff</span>. Basically...
-          I code so you don’t have to 🤙
+          I code so you don’t have t 🤙
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
